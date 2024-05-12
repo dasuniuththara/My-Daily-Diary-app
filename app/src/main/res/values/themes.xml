@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyDiary" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+
+    <style name="Theme.MyDiary" parent="Base.Theme.MyDiary" />
+
+    <color name="my_light_primary">#2196F3</color>
+</resources>
